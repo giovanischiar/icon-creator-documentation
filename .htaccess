@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^$ /icon-creator-documentation [L]
+RewriteRule ^$ /IconCreator.doccarchive [L]
